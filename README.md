@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **thidra77@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun Fact: I started learning programming because I wanted to understand how my favorite games work.
 
 </td>
 <td width="50%" align="center">
