@@ -16,9 +16,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **Python and Bash**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **ASIX**
 
 - 💬 Ask me about **Web development | OOC**
 
