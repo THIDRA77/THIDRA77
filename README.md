@@ -19,7 +19,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **ASIX**
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 Ask me about **Projects | Games**
 
 - 📫 How to reach me **thidra77@gmail.com**
   
