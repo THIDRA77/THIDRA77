@@ -8,9 +8,8 @@
   ## About me &#128513;
   <p>
   <b>
-  I am Schleidens a lover of technology &#128525; passionate about front end development, I work on my projects with Vue/Nuxt a front framework that I really like.
-  I'm currently learning reactjs and nodejs (wooaaahh fullstack JS &#128526;).
-  i like to learn new technology and update myself. i also like to contribute in open sources projects.
+  I’m a ASIX student (Networked Computer Systems Administration) passionate about technology and video games.
+  I’m currently learning various programming languages and tools related to my studies, aiming to expand my skills and develop projects that combine my interest in IT and the gaming world.
     
 <table align="center">
 <tr border="none">
