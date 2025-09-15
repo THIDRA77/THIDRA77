@@ -29,7 +29,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="400"/>
 
   
   </td>
