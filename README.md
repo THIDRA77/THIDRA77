@@ -26,3 +26,12 @@
   </td>
 </tr>
 </table>
+
+  <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+  
+  ## About me &#128513;
+  <p>
+  <b>
+  I am Schleidens a lover of technology &#128525; passionate about front end development, I work on my projects with Vue/Nuxt a front framework that I really like.
+  I'm currently learning reactjs and nodejs (wooaaahh fullstack JS &#128526;).
+  i like to learn new technology and update myself. i also like to contribute in open sources projects
