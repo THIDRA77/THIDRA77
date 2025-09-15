@@ -1,6 +1,7 @@
 <h1><p align="center">Hello, I'm Hugo Ruiz! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <!--
 **THIDRA77/THIDRA77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
 <table align="center">
 <tr border="none">
