@@ -1,80 +1,78 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
+  </a>
 
-<h1><p align="center">Hello, I'm Hugo Ruiz! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-<!--
-**THIDRA77/THIDRA77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
+  <h1>Hugo Ruiz | DevOps & SysAdmin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-  ## About me &#128513;
   <p>
-  <b>
-  I’m a ASIX student (Networked Computer Systems Administration) passionate about technology and video games.
-  I’m currently learning various programming languages and tools related to my studies, aiming to expand my skills and develop projects that combine my interest in IT and the gaming world.
-    
+    <strong>"Everything fails, all the time"</strong> — <em>Embracing high availability and automation.</em>
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  </p>
+</div>
+
+---
+
+### 🚀 El Camino hacia DevOps
+Vengo del mundo de la administración de sistemas (**ASIX**), donde aprendí a levantar sistemas. Ahora, mi enfoque es asegurar que esos sistemas sean **autónomos, escalables y tolerantes a fallos**. 
+
+- 🛠️ **En transición:** Evolucionando de SysAdmin tradicional a la cultura DevOps.
+- 🏗️ **Foco actual:** Automatización con **Python/Bash**, contenedores (**Docker**) y orquestación.
+- ⚙️ **Filosofía:** Si tienes que hacer algo dos veces, automatízalo.
+- 🎮 **Fun Fact:** Aplico la mentalidad de Arch Linux ("KISS") a mis despliegues.
+
 <table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **Python and Bash**
-
-- 🧑‍🎓 I’m an Undergraduate at **ASIX**
-
-- 💬 Ask me about **Projects | Games**
-
-- 📫 How to reach me **thidra77@gmail.com**
-  
-- ⚡ Fun Fact: Arch Linux User
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="300"/>
-
-  
-  </td>
-</tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIDRA77&layout=compact&theme=matrix&hide_border=true" alt="Top Langs" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="250"/>
+      <br><em>Desplegando resiliencia...</em>
+    </td>
+  </tr>
 </table>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+---
+
+### 🛠️ Tech Stack & Learning Roadmap
+
+<details open>
+<summary><b>🛠️ Automatización e Infraestructura (Focus)</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57020?style=flat-square&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+</details>
+
+<details>
+<summary><b>💻 Scripting & Backend</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+</details>
+
+---
+
+### 📊 Actividad en GitHub
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THIDRA77&theme=matrix&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
 
 <p align="center">
-
-- 📋 Languages: 
-    
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-   
-    
-- 🎨 Frameworks
-
-   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-    
-- 💾 Databases:
-
-    
-    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-    
-    
-- 🎛️ Application and Tools:
-
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Xmapp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-    ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-    
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix&quote=Infrastructure%20is%20code.%20Code%20is%20life." alt="Quote" />
 </p>
-
-
-
-
-
-  
-
