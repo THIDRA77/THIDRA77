@@ -42,11 +42,6 @@ I am an **ASIX (Networked Computer Systems Administration)** student. My focus h
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIDRA77&layout=compact&theme=matrix&hide_border=true" />
-  
-  <br>
-  <br>
-  
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="220"/>
   <br>
   <em>System Status: Resting at the bonfire...</em>
@@ -94,15 +89,6 @@ I am an **ASIX (Networked Computer Systems Administration)** student. My focus h
 
 ---
 
-<br>
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THIDRA77&theme=matrix&hide_border=true" alt="Streak Stats" />
-</div>
-
-<br>
 <br>
 
 <div align="center">
